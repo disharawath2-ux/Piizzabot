@@ -1,0 +1,36 @@
+{
+  "id": "df13afaa-6c27-43cf-9dc5-9c097b95bfdb",
+  "parentId": "2ad1c805-3194-4bb3-b3c8-3dd5e2514173",
+  "rootParentId": "2ad1c805-3194-4bb3-b3c8-3dd5e2514173",
+  "name": "PIZZABOT - no",
+  "auto": true,
+  "contexts": [
+    "PIZZABOT-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PIZZABOT.PIZZABOT-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "bdac8ec5-976e-4da7-be9d-b8bd8953ca23",
+    "data": [
+      {
+        "text": "book pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f720b77-aa0f-4f1e-86ee-aa0c114702c4",
+    "data": [
+      {
+        "text": "order me pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9229c33b-a1cb-4775-bd57-1b2907e3ee93",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "toppings",
+        "meta": "@Toppings",
+        "alias": "Toppings",
+        "userDefined": true
+      },
+      {
+        "text": " do you need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b12d1707-342b-4148-acc5-ecdc3088e426",
+    "data": [
+      {
+        "text": "The ",
+        "userDefined": false
+      },
+      {
+        "text": "type",
+        "meta": "@Pizza_Type",
+        "alias": "Pizza_Type",
+        "userDefined": true
+      },
+      {
+        "text": " of the pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "007a039e-fb13-4512-a868-61ca75543e11",
+    "data": [
+      {
+        "text": "Could you order me small ",
+        "userDefined": false
+      },
+      {
+        "text": "size",
+        "meta": "@Size",
+        "alias": "Size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "443814b6-2f94-459d-a7cf-0ff3a750f9db",
+    "data": [
+      {
+        "text": "order pizza to the ",
+        "userDefined": false
+      },
+      {
+        "text": "phone number",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47864080-3aa4-41ee-aa45-6a869dd27d6b",
+    "data": [
+      {
+        "text": "Order me pizza to the ",
+        "userDefined": false
+      },
+      {
+        "text": "mail id",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dfd3888-030e-4237-b0d2-813afd9d838e",
+    "data": [
+      {
+        "text": "Order me pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
